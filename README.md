@@ -1,6 +1,6 @@
 # net-snmp-bin
 
-- net-snmp binary
+- net-snmp 5.10 binary
 
 - Visual Studio 2019 x64
 
